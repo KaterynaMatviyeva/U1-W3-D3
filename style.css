@@ -12,3 +12,29 @@ button {
 .completed {
   text-decoration: line-through;
 }
+
+h2 {
+  text-align: center;
+}
+
+input {
+  border-radius: 10px;
+  width: 60%;
+  height: 4vh;
+  border: solid, #b5dcd9;
+  font-size: 15px;
+}
+
+#todoList {
+  margin-left: 40%;
+  font-size: 1.5rem;
+}
+#btn1 {
+  width: 6rem;
+  height: 2.5rem;
+  border-radius: 43%;
+  border: solid, 3px, #e2a48e;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2rem;
+  background-color: white;
+}
