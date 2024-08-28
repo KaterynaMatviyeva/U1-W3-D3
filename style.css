@@ -1,0 +1,14 @@
+.title {
+  background-image: url(https://c8.alamy.com/compit/2ek8hcx/bordo-floreale-senza-cuciture-in-stile-di-disegno-a-linea-continua-e-colori-pastello-piante-e-foglie-sfondo-cornice-illustrazione-vettoriale-2ek8hcx.jpg);
+  background-position: 100%;
+  background-size: cover;
+  height: 150px;
+  text-align: center;
+}
+
+button {
+  margin-left: 1rem;
+}
+.completed {
+  text-decoration: line-through;
+}
